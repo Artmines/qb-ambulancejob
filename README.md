@@ -1,5 +1,5 @@
 # qb-ambulancejob
-EMS Job and Death/Wound Logic for QB-Core Framework :ambulance:
+EMS Job and Death/Wound Logic for NYC QB-Core Framework :ambulance:
 
 ## NYC MAPS
 - [CRM DEVELOPMENT](https://discord.gg/crm)  
