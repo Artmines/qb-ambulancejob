@@ -1,6 +1,9 @@
 # qb-ambulancejob
 EMS Job and Death/Wound Logic for QB-Core Framework :ambulance:
 
+## NYC MAPS
+- CRM DEVELOPMENT (https://discord.gg/crm)  
+- Hell Script Shop (https://discord.gg/WKNRDtF9jp) 
 ## Dependencies
 - [qb-core](https://github.com/qbcore-framework/qb-core) (Required)
 - [qb-phone](https://github.com/qbcore-framework/qb-phone) (Required)
